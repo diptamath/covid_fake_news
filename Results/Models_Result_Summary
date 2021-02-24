@@ -1,0 +1,163 @@
+
+1. Wrong csv for best submission - DONE
+
+2. 
+
+XLM-Robert:
+
+Train - 
+
+Confusion Matrix: array([[3047,   13],
+                        [4, 3356]])
+
+F1: 0.9973520249221184, Precision: 0.9973520249221184, Recall: 0.9973520249221184, Accuracy: 0.9973520249221184
+
+
+Val - 
+
+Confusion Matrix: array([[ 981,   39],
+                        [  30, 1090]])
+
+F1: 0.9677570093457943, Precision: 0.9677570093457943, Recall: 0.9677570093457943, Accuracy: 0.9677570093457943
+
+
+Test - 
+
+Confusion Matrix: array([[ 991,   29],
+                        [  34, 1086]])
+
+F1: 0.9705607476635514, Precision: 0.9705607476635514, Recall: 0.9705607476635514, Accuracy: 0.9705607476635514
+
+
+
+
+
+
+ROBERT:
+
+Train - 
+
+Confusion Matrix: array([[3051,    9],
+                        [ 1, 3359]])
+
+F1: 0.9984423676012462, Precision: 0.9984423676012462, Recall: 0.9984423676012462, Accuracy: 0.9984423676012462
+
+
+Val - 
+
+Confusion Matrix: array([[ 972,   48],
+                        [  16, 1104]])
+
+F1: 0.9700934579439252, Precision: 0.9700934579439252, Recall: 0.9700934579439252, Accuracy: 0.9700934579439252
+
+
+Test - 
+
+Confusion Matrix: array([[ 973,   47],
+                        [  13, 1107]])
+
+F1: 0.9719626168224299, Precision: 0.9719626168224299, Recall: 0.9719626168224299, Accuracy: 0.9719626168224299
+
+
+XLNet:
+
+Train - 
+
+Confusion Matrix: array([[3055,    5],
+                        [   1, 3359]])
+
+F1: 0.9990654205607477, Precision: 0.9990654205607477, Recall: 0.9990654205607477, Accuracy: 0.9990654205607477
+
+
+Val - 
+
+Confusion Matrix: array([[ 976,   44],
+                        [   9, 1111]])
+
+F1: 0.9752336448598131, Precision: 0.9752336448598131, Recall: 0.9752336448598131, Accuracy: 0.9752336448598131
+
+
+Test - 
+
+Confusion Matrix: array([[ 961,   59],
+       [  13, 1107]])
+
+F1: 0.9663551401869159, Precision: 0.9663551401869159, Recall: 0.9663551401869159, Accuracy: 0.9663551401869159
+
+
+DeBERTa:
+
+Train - 
+
+Confusion Matrix: array([[3013,   47],
+                        [ 0, 3360]])
+
+F1: 0.9926791277258566, Precision: 0.9926791277258566, Recall: 0.9926791277258566, Accuracy: 0.9926791277258566
+
+
+Val - 
+
+Confusion Matrix: array([[ 950,   70],
+                        [  6, 1114]])
+
+F1: 0.9644859813084112, Precision: 0.9644859813084112, Recall: 0.9644859813084112, Accuracy: 0.9644859813084112
+
+
+Test - 
+
+Confusion Matrix: array([[ 952,   68],
+                        [  10, 1110]])
+
+F1: 0.9635514018691589, Precision: 0.9635514018691589, Recall: 0.9635514018691589, Accuracy: 0.9635514018691589
+
+
+
+ELECTRA:
+
+Train - 
+
+Confusion Matrix: array([[2887,  173],
+                        [ 0, 3360]])
+
+F1: 0.9730529595015577, Precision: 0.9730529595015577, Recall: 0.9730529595015577, Accuracy: 0.9730529595015577
+
+
+Val - 
+
+Confusion Matrix: array([[ 913,  107],
+                        [  5, 1115]])
+
+F1: 0.9476635514018692, Precision: 0.9476635514018692, Recall: 0.9476635514018692, Accuracy: 0.9476635514018692
+
+
+Test - 
+
+Confusion Matrix: array([[ 924,   96],
+                        [  5, 1115]])
+
+F1: 0.952803738317757, Precision: 0.952803738317757, Recall: 0.952803738317757, Accuracy: 0.952803738317757
+
+
+
+ERNIE2.0:
+
+
+Val - 
+
+Confusion Matrix: 
+
+F1: 0.9761682242990655, Precision: 0.9761682242990655, Recall: 0.9761682242990655, Accuracy: 0.9761682242990655
+
+
+Test - 
+
+Confusion Matrix: 
+
+F1: 0.9686915887850467, Precision: 0.9686915887850467, Recall: 0.9686915887850467, Accuracy: 0.9686915887850467
+
+
+3. Hard Voting v/s Soft Voting on Test Set ??
+
+4. Explanation
+
+5. Link Fetching
