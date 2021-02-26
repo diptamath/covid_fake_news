@@ -7,5 +7,4 @@ Wearing mask can protect you from the virus Real
 
 English Dataset: https://competitions.codalab.org/competitions/26655
 
-English dataset paper: Fighting an Infodemic: COVID-19 Fake News Dataset
-
+English dataset paper: https://arxiv.org/abs/2011.03327
