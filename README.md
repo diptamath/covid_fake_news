@@ -13,6 +13,7 @@ English dataset paper: https://arxiv.org/abs/2011.03327
 Link to Competition: https://constraint-shared-task-2021.github.io/
 
 The raw competition dataset can be also found at https://github.com/diptamath/covid_fake_news/tree/main/data
+
 #Our Approach:
 Our basic approach involves trying out different language models. Such model have achievedstate-of-the-art results on a variety of text classification tasks, which was the basic driving force behind our intuition to use them. We have tried out different language models like XLNet, RoBERTa, XLM-RoBERTa, DeBERTa, ELECTRA and ERNIE2.0. The individual training model files can be obtained from https://github.com/diptamath/covid_fake_news/tree/main/training_code.
 
