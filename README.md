@@ -1,6 +1,6 @@
 # COVID19 Fake News Detection in English :mag_right: :eyes:
-This repository contains the code for implementing the "A Heuristic-driven Ensemble Framework for COVID-19 Fake News Detection
-" (Accepted at CONSTRAINT Workshop, AAAI 2021).
+This repository contains the code for implementing the **"A Heuristic-driven Ensemble Framework for COVID-19 Fake News Detection
+" (Accepted at CONSTRAINT Workshop, AAAI 2021)**.
 
 **Preprint**: https://arxiv.org/abs/2101.03545
 
