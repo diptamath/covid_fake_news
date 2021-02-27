@@ -1,4 +1,9 @@
 # COVID19 Fake News Detection in English :mag_right: :eyes:
+This repository contains the code for implementing the "A Heuristic-driven Ensemble Framework for COVID-19 Fake News Detection
+" (Accepted at CONSTRAINT Workshop, AAAI 2021).
+
+**Preprint**: https://arxiv.org/abs/2101.03545
+
 It is a subtask in the CONSTRAINT-2021 shared task on the hostile post detection.
 This subtask focuses on the detection of COVID19-related fake news in English. The sources of data are various social-media platforms such as Twitter, Facebook, Instagram, etc. Given a social media post, the objective of the shared task is to classify it into either fake or real news. 
 
