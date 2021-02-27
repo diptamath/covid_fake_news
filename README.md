@@ -30,10 +30,11 @@ We also perform an ablation study regarding the priority of username handles and
 
 ## Citation
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follows:
+```
+@article{das2021heuristic,
+title={A Heuristic-driven Ensemble Framework for COVID-19 Fake News Detection},
+author={Das, Sourya Dipta and Basak, Ayan and Dutta, Saikat},
+journal={arXiv preprint arXiv:2101.03545},
+year={2021}
 
-<cite>@article{das2021heuristic,
-  title={A Heuristic-driven Ensemble Framework for COVID-19 Fake News Detection},
-  author={Das, Sourya Dipta and Basak, Ayan and Dutta, Saikat},
-  journal={arXiv preprint arXiv:2101.03545},
-  year={2021}
-}</cite>
+```
