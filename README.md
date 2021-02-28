@@ -28,6 +28,10 @@ All our work related to *Heuristic Post-Processing* can be obtained from the [An
 
 We also perform an ablation study regarding the priority of username handles and URL domains, and also regarding the threshold parameter, which can be accessed [here](https://github.com/diptamath/covid_fake_news/tree/main/Analysis/Ablation%20Study).
 
+## Results
+* Our initial approach using ensembling achieved an F-score of **98.31** against the **98.69** F1-score of the leaderboard topper
+* Post evaluation, we have been able to improve our solution drastically achieving an F1-score of **98.83**, using Heuristic Post-Processing
+
 ## Citation
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follows:
 ```
