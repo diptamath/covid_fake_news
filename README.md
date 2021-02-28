@@ -33,7 +33,7 @@ We also perform an ablation study regarding the priority of username handles and
 * Post evaluation, we have been able to improve our solution drastically achieving an F1-score of **98.83**, using Heuristic Post-Processing
 
 ## Citation
-Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follows:
+Please consider citing our paper in your publications if the project helps your research. The BibTeX reference is as follows:
 ```
 @article{das2021heuristic,
 title={A Heuristic-driven Ensemble Framework for COVID-19 Fake News Detection},
