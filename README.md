@@ -4,7 +4,7 @@ This repository contains the code for implementing the **"A Heuristic-driven Ens
 
 **Preprint**: https://arxiv.org/abs/2101.03545
 
-:bulb: **Please look into our extended work**: https://arxiv.org/pdf/2104.01791.pdf
+:bulb: **Please look into our extended work**: https://arxiv.org/pdf/2104.01791.pdf **_Accepted at Neurocomputing!_**
 
 ## Task Description
 It is a subtask in the CONSTRAINT-2021 shared task on the hostile post detection.
